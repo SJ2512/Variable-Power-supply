@@ -7,7 +7,7 @@
 ## Resistors 
 ## Capacitors 
 ## Banana Connectors 
-## 14 and 16 AEG wires (silicone preffered)
+## 14 and 16 AWG wires (silicone preffered)
 ## 12v DC cooling fan 
 ## Wood for enclosure 
 ## Heat shrinks and insulation tape 
