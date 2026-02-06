@@ -1,11 +1,3 @@
-Good. Solid engineering utility project.
-If the robotic platform is your “wow”, this is your **“this guy actually knows electronics”** project.
-
-I’ll convert your dump into a **final GitHub-ready Level-3 documentation**.
-You paste → done → never touch again.
-
----
-
 # Variable Bench Power Supply (0–36V, High Current)
 
 ## Overview
